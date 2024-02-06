@@ -1,1 +1,0 @@
-copy "WindowsNoEditor\Dakar2Game\Content\Paks\pakchunk69-WindowsNoEditor.pak" "D:\Program Files (x86)\Steam\steamapps\common\Dakar Desert Rally\Dakar2Game\Content\Paks\LogicMods\OpenMotion.pak"

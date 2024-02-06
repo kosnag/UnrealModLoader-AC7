@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <NXTargetName>Default</NXTargetName>
+    <LocalDebuggerWorkingDirectory>D:\Personal\UE4 Modding\UnrealModLoader_V2.2.1</LocalDebuggerWorkingDirectory>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <NXTargetName>Default</NXTargetName>
+    <LocalDebuggerWorkingDirectory>D:\Personal\projects\SpaceMonkey\trunk\UnrealModLoader\Release\2.2.1\UnrealModLoader_V2.2.1</LocalDebuggerWorkingDirectory>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>

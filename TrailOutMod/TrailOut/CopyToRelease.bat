@@ -1,1 +1,0 @@
-copy "WindowsNoEditor\TrailOut\Content\Paks\pakchunk69-WindowsNoEditor.pak" "D:\Program Files (x86)\Steam\steamapps\common\TRAIL OUT\TrailOut\Content\Paks\LogicMods\OpenMotion.pak"
